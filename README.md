@@ -9,5 +9,5 @@
 |이름|Solved.ac|
 |------|------------|
 |[김예림](https://github.com/aerimforest)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)|
-|멤버2|Id2|
+|[손예지](https://github.com/yezgoget)|Id2|
 |멤버3|Id3|
