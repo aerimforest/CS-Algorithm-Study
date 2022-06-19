@@ -13,7 +13,7 @@
 - 발표자 제외 사람들은(B, C) 발표 주제 중 하나씩 선택하여 문서로 정리 후 깃헙에 업로드
 <br/><br/>
 
-### 👥&nbsp;&nbsp;스터디원
+### 👥&nbsp;&nbsp;Member
 |이름|Solved.ac|
 |------|------------|
 |[김예림](https://github.com/aerimforest)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)|
