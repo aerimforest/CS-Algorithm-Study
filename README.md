@@ -20,7 +20,7 @@
 |------|------------|
 |[김예림](https://github.com/aerimforest)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yerim5287)](https://solved.ac/yerim5287)|
 |[손예지](https://github.com/yezgoget)|Id2|
-|[김규리](https://github.com/bnfkim)|Id3|  
+|[김규리](https://github.com/bnfkim)|[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kgr2626)](https://solved.ac/kgr2626)|  
 
 <br/>
 
