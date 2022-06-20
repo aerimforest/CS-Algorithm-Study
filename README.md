@@ -3,7 +3,7 @@
 - 전날 자정까지 담당자가 백준에서 주제 & `2문제` 정해서 올리기   
 - 당일 자정까지 깃헙에 업로드
 - 매주 __ 요일에는 프로그래머스 고득점 Kit
-- 업로드 위치: `Algorithm/Solution/yyyy-mm-dd/이름/파일명`
+- 업로드 위치: `Algorithm/Solution/이름/yyyy-mm-dd/파일명`
 - 파일명: `[문제 번호] 문제 제목` (ex. [2839] 설탕 배달)
 - 커밋 메세지: `[Algo] 알고리즘` (ex. [Algo] dfs, bfs)
 <br/><br/>
@@ -30,3 +30,4 @@
 - [WeareSoft / tech-interview](https://github.com/WeareSoft/tech-interview)
 - [4z7l / tech_interview.zip](https://github.com/4z7l/tech_interview.zip)
 - [tony9402 / baekjoon](https://github.com/tony9402/baekjoon)
+- [Songwonseok / CS-Study](https://github.com/Songwonseok/CS-Study)
