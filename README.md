@@ -1,6 +1,6 @@
 ### 📍&nbsp;&nbsp;Algorithm Study Rules
 - 월 ~ 일
-- 전날 자정까지 담당자가 백준에서 주제 & `2문제` 정해서 올리기   
+- 전날 자정까지 담당자가 백준에서 주제 & `2문제` 정해서 [wiki](https://github.com/aerimforest/CS-Algorithm-Study.wiki.git)에 올리기   
 - 당일 자정까지 깃헙에 업로드
 - 매주 __ 요일에는 프로그래머스 고득점 Kit
 - 업로드 위치: `Algorithm/Solution/이름/yyyy-mm-dd/파일명`
